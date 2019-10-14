@@ -11,4 +11,6 @@
     <string name="lable_add2">+2 points</string>
     <string name="lable_add3">+3 points</string>
     <string name="btn_reset_lable">Reset</string>
+    <string name="lable_set">Setting</string>
+    <string name="lable_open_list">OpenList</string>
 </resources>

@@ -5,11 +5,11 @@
     <item
         android:id="@+id/menu_set"
         android:icon="@mipmap/hello"
-        android:title="@string/hello"
-        app:showAsAction="always" />
+        android:title="@string/lable_set"
+        app:showAsAction="never" />
     <item
-        android:id="@+id/menu_haha"
+        android:id="@+id/open_list"
         android:icon="@mipmap/haha"
-        android:title="haha"
-        app:showAsAction="always" />
+        android:title="@string/lable_open_list"
+        app:showAsAction="never" />
 </menu>
