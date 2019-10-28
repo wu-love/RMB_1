@@ -13,4 +13,8 @@
     <string name="btn_reset_lable">Reset</string>
     <string name="lable_set">Setting</string>
     <string name="lable_open_list">OpenList</string>
+    <string name="rdo_home_label">首页</string>
+    <string name="rdo_func_label">功能</string>
+    <string name="rdo_setting_label">设置</string>
+
 </resources>

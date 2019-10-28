@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Page</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_first">First Page</string>
+    <string name="label_second">Second Page</string>
+    <string name="label_third">Third Page</string>
+</resources>
